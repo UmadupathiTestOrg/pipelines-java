@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/quantaservices/Infra-GitHub-Integration/_apis/build/status%2FUmadupathiTestOrg.pipelines-java?branchName=main)](https://dev.azure.com/quantaservices/Infra-GitHub-Integration/_build/latest?definitionId=494&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
